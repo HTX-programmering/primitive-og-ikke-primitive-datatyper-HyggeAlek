@@ -1,0 +1,42 @@
+Opgave 2.1
+Int
+4 bytes
+Default value er 0
+Max. value 2^31
+Min. value -2^31
+
+Float
+4 bytes
+Float bruges til at bevare decimal tal.
+Default value er 0.0f
+Uendelig value
+
+Char
+2 bytes
+Default value er u0000
+Max value /uffff
+
+Boolean
+1 byte
+True and false.
+Default value er false
+
+Byte
+1 byte
+Max value er 127
+Min. Value er -128
+
+Short
+2 bytes
+Max value er 32767
+Min. Value er -32768
+
+long
+8 bytes
+Max value er +(2^63)-1
+Min. Value er -2^63
+
+Double.
+4 bytes
+Max value er (2^31)-1
+Min. Vlaue er -2^31
